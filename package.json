@@ -9,7 +9,7 @@
   "pm2-start": "pm2 start index.js --name Queen_Anita-V5 --deep-monitoring --attach",
   "stop": "pm2 stop Queen_Anita-V5",
   "restart": "pm2 restart Queen_Anita-V5"
-  }
+  },
   "keywords": [
     "whiskeysockets",
     "multi-device"
